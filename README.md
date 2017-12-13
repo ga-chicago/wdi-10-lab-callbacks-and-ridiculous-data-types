@@ -1,6 +1,9 @@
 # Lab for callbacks and ridiculous data types
 # 12-13-2017 wdi-10-chi
 
+# this is just getting silly.....
+![DATA LAUGHING](http://trekmovie.com/wp-content/uploads/2017/09/tng30-datalaugh-640x483.jpg)
+
 Given, the following object, log the third element from the array
 
 ```javascript
